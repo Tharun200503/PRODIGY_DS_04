@@ -1,5 +1,7 @@
 # PRODIGY_DS_04
 
+Tharun A S,
+
 Prodigy InfoTech Internship(TrackCode - DS)
 
 Here is my internship project 4 as Data Science intern at Prodigy InfoTech
